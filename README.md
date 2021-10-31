@@ -8,6 +8,7 @@ To use this webpage, one can scroll through the table. To find filtered data, on
 
 #### Unfiltered text box. 
 Light grey words are placeholders in the text box and don't filter the image.
+
 ![Code_Example](/static/images/Unfiltered_filter_box.PNG)
 
 
