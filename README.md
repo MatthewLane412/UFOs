@@ -11,8 +11,12 @@ Light grey words are placeholders in the text box and don't filter the image.
 
 ![Code_Example](/static/images/Unfiltered_filter_box.PNG)
 
+#### Filtered on State "CA" and Shape "Triangle"
+Notice how "CA" and "Triangle are slightly darker text than the placeholders in the the other filter text boxes. 
+![Code_Example](/static/images/Filtered_on_CA_and_Triangle.PNG)
 
-![Code_Example](/Resources/Code_Example.PNG)
+
+
 ![Code_Example](/Resources/Code_Example.PNG)
 
 ## Summary
