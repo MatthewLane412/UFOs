@@ -6,7 +6,7 @@ In this analysis, I am using JavaScript, HTML and css to create a web page desig
 ## Results
 To use this webpage, one can scroll through the table. To find filtered data, one can use the filter search on the left hand side of the page.  
 
-![Code_Example]("/static/images/Unfiltered filter box.PNG")
+![Code_Example](/static/images/Unfiltered_filter_box.PNG)
 
 
 ![Code_Example](/Resources/Code_Example.PNG)
